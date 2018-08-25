@@ -1,0 +1,19 @@
+/* TEAM */
+Your title: Nicolò Saporito, Mirco Baragiani, WebChain Solutions
+Site:www.webchain.info https://webchainsolutions.github.io
+Mail: webchainsolutions@gmail.com
+Youtube: https://www.youtube.com/channel/UC748_qNYenhUU_9tEiskjlg
+Github:  https://github.com/WebChainSolutions
+Location: Bologna, Italy.
+[...]
+ 
+
+/* SITE'S E ALGHORITMS*/
+Last update: 2018/8/25
+Standards: HTML5, CSS3, SASS, PYTHON, LESS, JAVASCRIPT, POWERSHELL, BATCH, PUG, RUBY, PHP, C, C#
+Software: Notepad++, Photoshop, illustrator, Premiere, Git, Koala, Shell/all.
+
+
+/* THANKS */
+Thanks to html, css, and all the others...
+[...]
